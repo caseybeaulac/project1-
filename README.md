@@ -1,2 +1,1 @@
-# project1-
-PROJECT 1 
+This is our project. It is great.
